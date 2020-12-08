@@ -1,0 +1,12 @@
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\bin\Debug\netcoreapp2.0\IGotWorms.deps.json
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\bin\Debug\netcoreapp2.0\IGotWorms.runtimeconfig.json
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\bin\Debug\netcoreapp2.0\IGotWorms.runtimeconfig.dev.json
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\bin\Debug\netcoreapp2.0\IGotWorms.dll
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\bin\Debug\netcoreapp2.0\IGotWorms.pdb
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\IGotWorms.csprojAssemblyReference.cache
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\IGotWorms.csproj.CoreCompileInputs.cache
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\IGotWorms.AssemblyInfoInputs.cache
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\IGotWorms.AssemblyInfo.cs
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\IGotWorms.dll
+C:\Users\maxmc\source\repos\IGotWorms\IGotWorms\obj\Debug\netcoreapp2.0\IGotWorms.pdb
